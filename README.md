@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React and Redux**
 
-- 📫 How to reach me **asylbekmanas@gamil.com**
+- 📫 How to reach me **asylbekmanas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
